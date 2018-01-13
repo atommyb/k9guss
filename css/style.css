@@ -1233,3 +1233,30 @@ a {
   color: #b3b3b3;
   transition-duration: .125s
 }
+
+
+
+
+
+/******* Jan 2018 *********/
+.notice p {
+  font-size: 1.2em;
+  line-height: 1.4em;
+}
+
+.notice .highlight {
+  background-color: rgba(245, 152, 51, 0.6);
+}
+
+.divider {
+  width: 80%;
+  margin: 2em auto;
+  opacity: 0.5;
+  height: 0;
+  border-top: 0;
+}
+
+
+#rex-image {
+  background-image: url(../images/thumbnail/rex.jpg);
+}
